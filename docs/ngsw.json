@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1586878486905,
+  "index": "https://afshin-mo.github.io/angular_menu/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://afshin-mo.github.io/angular_menu/favicon.ico",
+        "https://afshin-mo.github.io/angular_menu/index.html",
+        "https://afshin-mo.github.io/angular_menu/main-es2015.24c73a69cc8ff9ba9857.js",
+        "https://afshin-mo.github.io/angular_menu/main-es5.24c73a69cc8ff9ba9857.js",
+        "https://afshin-mo.github.io/angular_menu/manifest.webmanifest",
+        "https://afshin-mo.github.io/angular_menu/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "https://afshin-mo.github.io/angular_menu/polyfills-es5.1fd9b76218eca8053895.js",
+        "https://afshin-mo.github.io/angular_menu/runtime-es2015.1eba213af0b233498d9d.js",
+        "https://afshin-mo.github.io/angular_menu/runtime-es5.1eba213af0b233498d9d.js",
+        "https://afshin-mo.github.io/angular_menu/styles.e85664fc5a31b02ac00f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://afshin-mo.github.io/angular_menu/assets/icons/icon-128x128.png",
+        "https://afshin-mo.github.io/angular_menu/assets/icons/icon-144x144.png",
+        "https://afshin-mo.github.io/angular_menu/assets/icons/icon-152x152.png",
+        "https://afshin-mo.github.io/angular_menu/assets/icons/icon-192x192.png",
+        "https://afshin-mo.github.io/angular_menu/assets/icons/icon-384x384.png",
+        "https://afshin-mo.github.io/angular_menu/assets/icons/icon-512x512.png",
+        "https://afshin-mo.github.io/angular_menu/assets/icons/icon-72x72.png",
+        "https://afshin-mo.github.io/angular_menu/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://afshin-mo.github.io/angular_menu/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://afshin-mo.github.io/angular_menu/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://afshin-mo.github.io/angular_menu/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://afshin-mo.github.io/angular_menu/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://afshin-mo.github.io/angular_menu/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://afshin-mo.github.io/angular_menu/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://afshin-mo.github.io/angular_menu/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://afshin-mo.github.io/angular_menu/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://afshin-mo.github.io/angular_menu/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://afshin-mo.github.io/angular_menu/index.html": "edb816e9c7e0be390d8fae67437d1f4b21c176a5",
+    "https://afshin-mo.github.io/angular_menu/main-es2015.24c73a69cc8ff9ba9857.js": "d799b209e4e8a06d1efa84b11ac7a9d186cf40da",
+    "https://afshin-mo.github.io/angular_menu/main-es5.24c73a69cc8ff9ba9857.js": "a9068cadf0fb75084f94b924c8b4859d71876b62",
+    "https://afshin-mo.github.io/angular_menu/manifest.webmanifest": "1b814fe38aadaae294a0c8590b8bf548c6f45c2d",
+    "https://afshin-mo.github.io/angular_menu/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://afshin-mo.github.io/angular_menu/polyfills-es5.1fd9b76218eca8053895.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
+    "https://afshin-mo.github.io/angular_menu/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://afshin-mo.github.io/angular_menu/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://afshin-mo.github.io/angular_menu/styles.e85664fc5a31b02ac00f.css": "0ff97279e146f82190cecdf3add6faf5e858e9ee"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
