@@ -1,0 +1,50 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover,
+a:active {
+    color: lightgray;
+}
+
+.navigation-items {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+mat-toolbar {
+    border-radius: 0px;
+}
+
+.mat-toolbar.mat-primary {
+    background: #5f0165;
+    box-shadow: 1px 4px 7px 2px #828282;
+}
+
+ul li {
+    /* margin: 15px 25px 15px 25px; */
+    list-style: none;
+    /* padding: 15px 25px 15px 25px; */
+}
+
+li a {
+    /* margin: 15px 25px 15px 25px; */
+    padding: 15px 25px 15px 25px;
+    transition: all .3s ease-in;
+}
+
+li a:hover {
+    background-color: #7e0486;
+}
+
+@media(max-width: 959px) {
+    mat-toolbar {
+        border-radius: 0px;
+    }
+}
+
+.bodyContent {
+    height: 100vh;
+}
